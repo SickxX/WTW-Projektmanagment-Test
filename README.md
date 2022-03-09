@@ -1,4 +1,4 @@
-# Projektmanagement Set für die Entwicklungsphase der Projekte in der Medieninformatik
+# Projektmanagement Set für die Projekte in der Medieninformatik
 
 Dieses Set bietet Ideen und Mittel, um einem Team, welches in die Entwicklungsphase einsteigt, ein solides Projektmanagement zu ermöglichen, ohne dabei Einschränkungen und Entwicklungsmöglichkeiten vorwegzunehmen.
 
