@@ -12,6 +12,7 @@ Dieses Set bietet Ideen und Mittel, um einem Team, welches in die Entwicklungsph
 - die Fragestellungen können nach Belieben und Notwendigkeit bearbeitet werden
 - anhand der Labels ist zu sehen zu welcher Kategorie ein Issue gehört (In Progress)
 - forkt das Projekt und nutzt die Issues die für eure Arbeit sinnvoll sind
+- konstruktives Feedback und unterstützende Informationen können gerne als Kommentare unter den Issues vermerkt werden
 
 ![Concept Map](https://github.com/annasubach/WTW-Projektmanagment-Test/blob/main/Concept%20Map%20PM.jpg)
 
