@@ -7,7 +7,8 @@ Viel Spaß bei der Projekt durchführung!
 
 ## Anleitung
 
-[Das Board](https://github.com/annasubach/WTW-Projektmanagment-Test/projects/1) bietet Issues, die in Projektphasen eingeteilt sind. Alle Aufgaben/Fragestellungen bieten die Möglichkeit, das eigene Projektmanagement zu entwickeln oder zu verbessern. Es ist jedem Team frei gestellt, diese unterstützenden Issues zu bearbeiten. Auch ist es Möglich nur einen Teil der Issues zu verwenden.
+[Das Board](https://github.com/annasubach/WTW-Projektmanagment-Test/projects/1) bietet Issues, die in Projektphasen eingeteilt sind. Alle Aufgaben/Fragestellungen bieten die Möglichkeit, das eigene Projektmanagement zu entwickeln oder zu verbessern. Es ist jedem Team frei gestellt, diese unterstützenden Issues zu bearbeiten. Auch ist es Möglich nur einen Teil der Issues zu verwenden. Folgende Darstellung visualisiert die Projektphasen:
+![Concept Map](https://github.com/annasubach/WTW-Projektmanagment-Test/blob/main/Concept%20Map%20PM.jpg) 
 
 ### Schnellanleitung
 
@@ -22,8 +23,7 @@ Viel Spaß bei der Projekt durchführung!
 ### Ausführliche Anleitung
 
 #### Phasen
-Das Board besitzt verschiedene Spalten, welche Projektmanagement Phasen darstellen. Die Phasen sind in der folgenden Abbildung anhand unterschiedlicher Farben visualisiert:
-![Concept Map](https://github.com/annasubach/WTW-Projektmanagment-Test/blob/main/Concept%20Map%20PM.jpg) 
+Das Board besitzt sieben Spalten, welche die verschiedenen Projektmanagement Phasen darstellen. Die Phasen sind in der vorigen Abbildung anhand unterschiedlicher Farben visualisiert.
 Die Phasen besitzen keine zeitliche Eingrenzung um eurem Projekt und euch den nötigen Freiraum zu geben.
 
 #### Issues
