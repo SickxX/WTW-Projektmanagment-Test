@@ -2,7 +2,7 @@
 
 Dieses Set bietet Ideen und Mittel, um einem Team, welches gemeinsam ein Projekt beginnt, ein solides Projektmanagement zu ermöglichen. Es wurde so entwickelt, dass es keine Einschränkungen bewirkt oder Entwicklungsmöglichkeiten vorweg nimmt. 
 
-Viel Spaß bei der Projekt durchführung!
+Viel Spaß bei der Projektdurchführung!
 
 
 ## Anleitung
