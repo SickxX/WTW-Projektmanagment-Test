@@ -35,9 +35,6 @@ Auf den Issues sind Label vermerkt. Anhand dieser Label kann das Issue in einen 
 #### Feedback
 Wenn euch bei der Bearbeitung oder nach Abschluss des Projektes Aspekte einfallen, we´lche das Projektmanagement verbessern könnten, kann dies gerne vermerkt werden. Konstruktives Feedback und unterstützende Informationen können gerne als Kommentare unter den Issues niedergeschrieben werden.
 
-#### Verwendung
-Das Set kann auch außerhalb des Master Projekts für Module und Teamarbeit genutzt werden.
-
 ## Hintergrund
 
 Dieses Set ist im Rahmen des Projekt 3 - Evaluation im Master Medieninformatik der TH Köln entstanden. Es soll die Erfahrungen aus den vorangegangen Projektphasen bündeln und diese an andere Teams weitergeben. Dabei soll keine feste Arbeitsweise festgelegt werden, denn jedes Team soll zum eigenen Recherchieren angeregt werden. So kann der eigene Erkenntnissgewinn im Team gefördert werden. Das Set wurde somit für die Studierenden der Medieninformatik an der TH Köln erstellt, kann aber ohne Weiteres ebenfalls für Hochschulexterne Projekte genutzt werden.
